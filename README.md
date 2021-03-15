@@ -1,8 +1,8 @@
 # Actividad 2
-Crear una pagina web que cumpla con lo siguiente:<pre>
+Crear una pagina web que cumpla con lo siguiente:</br>
 
-Crear un formulario de contacto con los siguientes campos: Nombre, Correo, Mensaje<pre>
-Los nombres de los campos deben de ser: name, email, message<pre>
+Crear un formulario de contacto con los siguientes campos: Nombre, Correo, Mensaje</br>
+Los nombres de los campos deben de ser: name, email, message</br>
 Los campos deben de ser requeridos (required)
 Utilizar los tipos de inputs correspondientes a cada campo (text, email, textarea)
 Utilizar el método post y mandar los datos a http://3.88.130.135/paradigmas/actividad_dos.php
