@@ -1,16 +1,16 @@
 # Actividad 2
 Crear una pagina web que cumpla con lo siguiente:</br>
 
-Crear un formulario de contacto con los siguientes campos: Nombre, Correo, Mensaje</br>
-Los nombres de los campos deben de ser: name, email, message</br>
-Los campos deben de ser requeridos (required)
-Utilizar los tipos de inputs correspondientes a cada campo (text, email, textarea)
-Utilizar el método post y mandar los datos a http://3.88.130.135/paradigmas/actividad_dos.php
-Adjuntar una captura de pantalla con el resultado.
-Agregar el logo de la facultad de ingeniería.
-Agregar al menos tres estilos.
-El archivo de estilos debe de estar separado (styles.css).
-Compartir el link del repositorio github (github..../actividad_x)
+1. Crear un formulario de contacto con los siguientes campos: Nombre, Correo, Mensaje</br>
+2. Los nombres de los campos deben de ser: name, email, message</br>
+3. Los campos deben de ser requeridos (required)</br>
+4. Utilizar los tipos de inputs correspondientes a cada campo (text, email, textarea)</br>
+5. Utilizar el método post y mandar los datos a http://3.88.130.135/paradigmas/actividad_dos.php</br>
+6. Adjuntar una captura de pantalla con el resultado.</br>
+7. Agregar el logo de la facultad de ingeniería.</br>
+8. Agregar al menos tres estilos.</br>
+9. El archivo de estilos debe de estar separado (styles.css).</br>
+10. Compartir el link del repositorio github (github..../actividad_x)</br>
 
 ## Formulario completo
 ![A1](https://user-images.githubusercontent.com/51014165/111221172-60788880-8597-11eb-83b4-fc9211c33af0.JPG)
